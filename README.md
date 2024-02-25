@@ -1,8 +1,7 @@
 ### <div align="center">I'm Prashun, a passionate student pursuing Bsc.Hons Computer Science</div>  
   
 
-- Full stack developer
-CyberSecurity Enthusiast  
+- Full stack developer | CyberSecurity Enthusiast  
   
 
 <br/>  
@@ -75,16 +74,6 @@ CyberSecurity Enthusiast
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashunbaral&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
