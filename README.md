@@ -1,12 +1,8 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/152043722?v=4" align="center" style="width: 35%" />
-</div>  
-  
-
 ### <div align="center">I'm Prashun, a passionate student pursuing Bsc.Hons Computer Science</div>  
   
 
-- Full stack developer | CyberSecurity Enthusiast   
+- Full stack developer
+CyberSecurity Enthusiast  
   
 
 <br/>  
