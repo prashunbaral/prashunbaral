@@ -1,10 +1,15 @@
-### <div align="center">I'm Prashun, a passionate student pursuing Bsc.Hons Computer Science</div>  
-  
+# Hi there, I'm Prashun Baral! 👋
 
-- Full stack developer | CyberSecurity Enthusiast  
-  
+I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a strong passion for cybersecurity and networking. Here's a glimpse of what you'll find in my repositories:
 
-<br/>  
+## About Me
+
+- 🎓 Studying Bachelor of Computer Science (Honors)
+- 🔒 Passionate about cybersecurity and networking
+- 💻 Enthusiastic about software development, coding, and problem-solving
+- 🌱 Currently learning networking with cisco packet tracer
+- 🤝 Open to collaborations and learning opportunities
+<br>
 
 
 ## My Skill Set  
@@ -73,11 +78,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashunbaral&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashunbaral&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  /><br>
 <img src="https://komarev.com/ghpvc/?username=prashunbaral&&style=flat-square" align="center" />
 </div>  
   
