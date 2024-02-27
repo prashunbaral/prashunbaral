@@ -9,6 +9,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 - 💻 Enthusiastic about software development, coding, and problem-solving
 - 🌱 Currently learning networking with cisco packet tracer
 - 🤝 Open to collaborations and learning opportunities
+
 <br>
 
 
