@@ -83,7 +83,8 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 <br/>  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashunbaral&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashunbaral&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashunbaral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="195" alt="languages graph"  /> <br>
 <img src="https://komarev.com/ghpvc/?username=prashunbaral&&style=flat-square" align="center" />
 </div>  
   
