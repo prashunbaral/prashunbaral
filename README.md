@@ -10,7 +10,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 - 🌱 Currently learning networking with cisco packet tracer
 - 🤝 Open to collaborations and learning opportunities
 - 🤖 ML Enthusiast
-- 🛜 Currently learning Networking with Cisco
+- 🧑‍💻 Currently learning XSS with https://portswigger.net/
 
 <br>
 
