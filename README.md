@@ -5,7 +5,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 ## About Me
 
 - 🎓 Studying Bachelor of Computer Science (Honors)
-- 🔒 Passionate about cybersecurity and networking
+- 🔒 CyberSecurity Enthusiast
 - 💻 Enthusiastic about software development, coding, and problem-solving
 - 🤝 Open to collaborations and learning opportunities
 - 🧑‍💻 Currently learning XSS with https://portswigger.net/
