@@ -9,6 +9,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 - 💻 Enthusiastic about software development, coding, and problem-solving
 - 🤝 Open to collaborations and learning opportunities
 - 🧑‍💻 Currently learning XSS with https://portswigger.net/
+- 🧑‍💻 Currently learning Next JS
 
 <br>
 
