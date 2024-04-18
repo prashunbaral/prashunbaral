@@ -9,7 +9,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 - 💻 Enthusiastic about software development, coding, and problem-solving
 - 🤝 Open to collaborations and learning opportunities
 - 🧑‍💻 Currently learning CSRF with https://portswigger.net/
-- 🧑‍💻 Currently learning BurpSuite with https://tryhackme.com/
+- 🧑‍💻 Currently solving rooms with https://tryhackme.com/
 - 🧑‍💻 Currently learning Next JS
 
 <br>
