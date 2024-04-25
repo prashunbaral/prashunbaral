@@ -6,6 +6,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 
 - 🎓 Studying Bachelor of Computer Science (Honors)
 - 🔒 CyberSecurity Enthusiast
+- 🚩 Red Teaming
 - 💻 Enthusiastic about software development, coding, and problem-solving
 - 🤝 Open to collaborations and learning opportunities
 - 🧑‍💻 Currently learning CSRF with https://portswigger.net/
