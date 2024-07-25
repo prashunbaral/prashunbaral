@@ -9,7 +9,7 @@ I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a st
 - 🚩 Red Teaming
 - 💻 Enthusiastic about software development, coding, and problem-solving
 - 🤝 Open to collaborations and learning opportunities
-- 🧑‍💻 Currently learning SSRF with https://portswigger.net/
+- 🧑‍💻 Currently learning XEE with https://portswigger.net/
 - 🧑‍💻 Currently solving rooms with https://tryhackme.com/
 
 <br>
