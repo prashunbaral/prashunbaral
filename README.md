@@ -1,7 +1,6 @@
 # Hi there, I'm Prashun Baral! 👋
 
 I'm currently pursuing a Bachelor of Computer Science (Honours) degree with a strong passion for cybersecurity and networking. Here's a glimpse of what you'll find in my repositories:
-<img src="https://tryhackme-badges.s3.amazonaws.com/PrashunB.png" alt="Your Image Badge" />
 
 ## About Me
 
